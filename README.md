@@ -9,6 +9,7 @@ As an analyst for the telecommunications operator Megaline, this project focuses
 
 ## Data Dictionary:
 - Users:
+  
 | Variable     | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
 | user_id      | Unique user identifier                                                                     |
