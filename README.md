@@ -1,7 +1,8 @@
 
 # Megaline Phone Plans Analysis
 
-![](https://www.nine.com.au/product-reviews/tech/how-to-choose-mobile-phone-plan-what-to-consider-everything-to-know/687c8f21-bacb-4343-8e0d-fb7bec6d3277)
+![](https://content.vodafone.co.nz/dims4/default/a532f4d/2147483647/strip/true/crop/3840x640+0+0/resize/4720x786!/format/webp/quality/100/?url=http%3A%2F%2Fvodafonenz-brightspot.s3.amazonaws.com%2F0e%2Fb8%2Fb3ca7c114ae1badc75886388956f%2Focs00307-mobile-plans-1920x320-2x.jpg)
+
 ## Project Overview:
 
 As an analyst for the telecommunications operator Megaline, this project focuses on comparing the revenue performance of two prepaid plans, Surf and Ultimate. Using a dataset of 500 customers from 2018, which includes details such as calls, messages, internet traffic, and locations, the analysis aims to identify the plan that generates the most revenue. Data cleaning and preprocessing will be followed by visual analyses—such as histograms and boxplots—and statistical hypothesis testing to ensure robust conclusions.
@@ -10,14 +11,14 @@ As an analyst for the telecommunications operator Megaline, this project focuses
 - Users:
 | Variable     | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
-| user_id      | Unique user identifier                                                                      |
-| first_name   | User's first name                                                                           |
-| last_name    | User's last name                                                                            |
-| age          | User's age (in years)                                                                       |
-| reg_date     | Subscription date (dd, mm, yy)                                                              |
-| churn_date   | Date when the user stopped using the service (if absent, the plan was active at extraction) |
-| city         | User's city of residence                                                                     |
-| plan         | Name of the plan used  
+| user_id      | Unique user identifier                                                                     |
+| first_name   | User's first name                                                                          |
+| last_name    | User's last name                                                                           |
+| age          | User's age (in years)                                                                      |
+| reg_date     | Subscription date (dd, mm, yy)                                                             |
+| churn_date   | Date when the user stopped using the service (if absent, the plan was active at extraction)|
+| city         | User's city of residence                                                                   |
+| plan         | Name of the plan used                                                                      |
 
 - Calls:
 
