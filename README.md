@@ -1,8 +1,7 @@
 
 # Megaline Phone Plans Analysis
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2Fwirecutter%2Freviews%2Fbest-wireless-carrier%2F&psig=AOvVaw3kF-gzu6TntbwkutDmfG-y&ust=1748536105357000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjgneHKxo0DFQAAAAAdAAAAABAE)
-
+![](https://www.nine.com.au/product-reviews/tech/how-to-choose-mobile-phone-plan-what-to-consider-everything-to-know/687c8f21-bacb-4343-8e0d-fb7bec6d3277)
 ## Project Overview:
 
 As an analyst for the telecommunications operator Megaline, this project focuses on comparing the revenue performance of two prepaid plans, Surf and Ultimate. Using a dataset of 500 customers from 2018, which includes details such as calls, messages, internet traffic, and locations, the analysis aims to identify the plan that generates the most revenue. Data cleaning and preprocessing will be followed by visual analyses—such as histograms and boxplots—and statistical hypothesis testing to ensure robust conclusions.
