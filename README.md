@@ -67,4 +67,4 @@ Statistical tests confirmed that average monthly revenues for the Ultimate plan 
 
 Further, revenues in the New York–New Jersey region were found to be statistically different and higher compared to other cities. In practical terms, this suggests regional variations in customer behavior and spending power that may warrant tailored marketing strategies. These findings directly inform Megaline’s advertising budget allocation and highlight the Ultimate plan as the primary driver of overall revenue growth.
 
-"TripleTen" Proyect #4 
+"TripleTen" Project #4 
